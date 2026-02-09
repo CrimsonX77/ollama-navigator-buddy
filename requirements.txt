@@ -1,0 +1,35 @@
+# ORACLE Workbench Dependencies
+# ==============================
+
+# Core GUI
+PyQt6
+pydub
+pygame
+pyaudio
+edge-tts
+pyyaml
+numpy
+scipy
+opencv-python
+pillow
+pytesseract
+torch
+torchaudio
+transformers
+openai
+langchain
+anthropic
+google-generativeai
+beautifulsoup4
+requests
+pynput
+psutil
+ollama
+chromadb
+faiss-cpu
+weaviate-client
+clip-interrogator
+clip-anytorch
+BLIP
+CLIP
+scikit-learn
